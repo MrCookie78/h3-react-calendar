@@ -1,0 +1,16 @@
+table {
+	width: 350px !important;
+}
+
+th,
+td {
+	width: 50px !important;
+}
+
+td:hover {
+	cursor: pointer;
+}
+
+.select-calendar {
+	width: 150px;
+}
